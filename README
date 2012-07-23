@@ -1,0 +1,4 @@
+PagedGridView is a QML GridView that handles automatic paging of showing multiple items on a single page.
+
+Change the orientation of the grid by changing the flow variable in the root object.
+See inline comments for more explanations.
